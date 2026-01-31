@@ -95,7 +95,7 @@ module Top();
     check( 1, 0, 1, 1);
     check( 1, 1, 0, 1);
     check( 1, 1, 1, 1);
-    // lazy but would have to add checks for X and Z
+    // lazy but would have to add checks for X and Z bleh
 
     t.test_case_end();
   endtask
